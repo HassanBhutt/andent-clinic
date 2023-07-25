@@ -1,5 +1,3 @@
-import { AmpIframe } from "react-amphtml";
-
 function test() {
   return (
     <div className="container">
